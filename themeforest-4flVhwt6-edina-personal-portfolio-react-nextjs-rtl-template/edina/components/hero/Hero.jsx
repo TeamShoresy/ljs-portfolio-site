@@ -8,8 +8,8 @@ import heroImage from "../../public/img/hero/2.jpg";
 const heroContent = {
   shapeImage: shapeImage,
   heroImage: heroImage,
-  name: "Rokers Nelson",
-  description: `I'm a Freelancer Front-end React Developer based In USA, over 6 years of
+  name: "Lauren Shores",
+  description: `I'm a Data Scientist based In USA, with over 16 years of
   professional experience.`,
 };
 
@@ -41,7 +41,7 @@ const Hero = () => {
                 loop
                 typeSpeed={150}
                 backSpeed={60}
-                strings={["Graphic Designer", "Web Developer"]}
+                strings={["Data Scientist", "Mega Babe"]}
                 smartBackspace
                 shuffle={false}
                 backDelay={1}

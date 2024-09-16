@@ -28,7 +28,7 @@ const About = () => {
           >
             <div className="info">
               <h3>
-                Hi, Im <span>Rokers Nelson</span>
+                Hi, Im <span>Lauren Shores</span>
               </h3>
               <p>
                 Im a Freelancer Front-end Developer with over 6 years of
