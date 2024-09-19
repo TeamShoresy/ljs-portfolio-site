@@ -60,7 +60,6 @@ const Sidebar = () => {
                 "about",
                 "service",
                 "portfolio",
-                "testimonial",
                 "blog",
                 "contact",
               ]}
