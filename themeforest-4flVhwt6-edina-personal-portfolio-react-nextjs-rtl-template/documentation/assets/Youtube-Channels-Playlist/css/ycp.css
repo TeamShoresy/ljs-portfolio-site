@@ -97,7 +97,7 @@
 }
 
 .ycp .belah.ycp_vid_play {
-	cursor: pointer;
+	cursor: default;
 }
 
 .ycp .belah.ycp_vid_play a {
@@ -177,7 +177,7 @@
 .ycp .belah .luhur .vid-prev,
 .ycp .belah .luhur .vid-next,
 .ycp .belah .play {
-	cursor: pointer;
+	cursor: default;
 }
 
 @media screen and (max-width:767px) {
