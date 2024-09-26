@@ -58,10 +58,8 @@ const Sidebar = () => {
               scrollTargetIds={[
                 "home",
                 "about",
-                "service",
                 "portfolio",
                 "blog",
-                "contact",
               ]}
               activeNavClass="active"
               offset={0}
