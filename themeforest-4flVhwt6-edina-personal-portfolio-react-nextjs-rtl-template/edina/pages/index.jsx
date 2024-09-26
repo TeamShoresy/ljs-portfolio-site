@@ -1,12 +1,12 @@
 import dynamic from "next/dynamic";
 import Seo from "../components/Seo";
-import EdinaPreview from "../components/pages/preview";
+import HomeSidebar from "../components/pages/home-sidebar";
 
 const index = () => {
   return (
     <>
-      <Seo pageTitle="Preview" />
-      <EdinaPreview />
+      <Seo pageTitle="Home Sidebar" />
+      <HomeSidebar />
     </>
   );
 };

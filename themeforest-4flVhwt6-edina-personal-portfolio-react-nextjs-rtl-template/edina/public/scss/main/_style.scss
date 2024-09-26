@@ -1252,7 +1252,7 @@ body.dark .loader_line:after {
   width: 25%;
   padding-left: 30px;
   float: left;
-  cursor: pointer;
+  cursor: default;
   position: relative;
 }
 .edina_tm_services ul li .list_inner {
@@ -1549,7 +1549,7 @@ body.dark .loader_line:after {
   clear: both;
   float: left;
   position: relative;
-  cursor: pointer;
+  cursor: default;
 }
 .my_carousel ul li .image {
   position: relative;
@@ -1606,7 +1606,7 @@ body.dark .loader_line:after {
   color: #1a1a1a;
   font-size: 22px;
   font-weight: 700;
-  cursor: pointer;
+  cursor: default;
 }
 .my_carousel ul .details span {
   text-decoration: none;
@@ -2990,7 +2990,7 @@ a {
   width: 45px;
   height: 45px;
   z-index: 99;
-  cursor: pointer;
+  cursor: default;
   @media screen and (max-width: 1199px) {
     display: none;
   }
@@ -3034,7 +3034,7 @@ a {
   padding: 0;
   background: #000;
   border: none;
-  cursor: pointer;
+  cursor: default;
   margin-left: auto;
   span {
     position: absolute;
