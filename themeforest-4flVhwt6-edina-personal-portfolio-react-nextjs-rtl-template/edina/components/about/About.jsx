@@ -90,39 +90,7 @@ const About = () => {
                     {/* End righttpart */}
                 </div>
             </div>
-
-            {/* Start About Details Modal */}
-            <Modal
-                isOpen={isOpen}
-                onRequestClose={toggleModalOne}
-                contentLabel="My dialog"
-                className="custom-modal about-popup-wrapper"
-                overlayClassName="custom-overlay "
-                closeTimeoutMS={500}
-            >
-                <div className="edina_tm_modalbox">
-                    <button className="close-modal" onClick={toggleModalOne}>
-                        <Image
-                            width={45}
-                            height={45}
-                            src="/img/svg/cancel.svg"
-                            alt="close icon"
-                        />
-                    </button>
-                    {/* End close icon */}
-
-                    <div className="box_inner">
-                        <div className="description_wrap scrollable">
-                            <ModalContent/>
-                        </div>
-                    </div>
-                    {/* End box inner */}
-                </div>
-                {/* End modal box news */}
-            </Modal>
-            {/* End  About Details Modal */}
         </div>
-// /ABOUT
     );
 };
 
