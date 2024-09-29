@@ -81,8 +81,8 @@ const About = () => {
                                 data-aos-delay="300"
                             >
                                 <div className="info">
-                                    <h3>6+ Years</h3>
-                                    <span>Of Experiance</span>
+                                    <h3>8+ Years</h3>
+                                    <span>Of Experience</span>
                                 </div>
                             </div>
                         </div>
