@@ -1,10 +1,5 @@
 import {useState} from "react";
-import Skills from "./Skills";
-import Modal from "react-modal";
-import ModalContent from "./modal/ModalContent";
 import Image from "next/image";
-
-Modal.setAppElement("#__next");
 
 const About = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -67,7 +62,7 @@ const About = () => {
                             <div
                                 className="main"
                                 style={{
-                                    backgroundImage: "url(img/about/2.jpg)",
+                                    backgroundImage: "url(/img/about/3.jpeg)",
                                 }}
                                 data-aos="fade-left"
                                 data-aos-duration="1200"
