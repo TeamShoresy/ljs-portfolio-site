@@ -71,8 +71,9 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Portfolio</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                            ipsum sit nibh amet egestas tellus.
+                            Data scientist experienced in supply chain and real estate, leading impactful machine
+                            learning projects, mentoring Black professionals in data, and exploring insights on race,
+                            place, and food.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
@@ -85,8 +86,7 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Blog</h3>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
-                            ipsum sit nibh amet egestas tellus.
+                            Exploring and sharing topics of interest, learning journey, and project insights.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
