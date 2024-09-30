@@ -5,7 +5,7 @@ const Seo = ({ pageTitle, font }) => (
     <Head>
       <title>
         {pageTitle &&
-          `${pageTitle} || Edina - Personal Portfolio React NextJS Template}`}
+          `Lauren Shores Portfolio`}
       </title>
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
       <meta
