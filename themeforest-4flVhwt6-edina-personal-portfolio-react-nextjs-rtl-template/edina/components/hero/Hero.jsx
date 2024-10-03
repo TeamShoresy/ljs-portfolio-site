@@ -3,7 +3,7 @@ import Social from "../Social";
 import ReactTyped from "react-typed";
 import Image from "next/image";
 import shapeImage from "../../public/img/hero/1.jpg";
-import heroImage from "../../public/img/hero/2.jpg";
+import heroImage from "../../public/img/me_smile_cover.jpeg";
 
 const heroContent = {
     shapeImage: shapeImage,
@@ -68,16 +68,6 @@ const Hero = () => {
                         data-aos-delay="400"
                     >
                         <Social/>
-                    </div>
-                    <div
-                        className="edina_tm_button"
-                        data-aos="fade-up"
-                        data-aos-duration="1200"
-                        data-aos-delay="500"
-                    >
-                        <a href="/img/sample.pdf" download className="color">
-                            Download CV
-                        </a>
                     </div>
                 </div>
             </div>
