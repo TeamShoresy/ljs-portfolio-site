@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: false,
+    basePath: "/edina",
+    output: "export",
+    reactStrictMode: false,
 };
 
 module.exports = nextConfig;
