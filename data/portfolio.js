@@ -2,7 +2,7 @@ module.exports = [
     {
         id: 1,
         tooltipId: "product",
-        portfolioImage: "/img/portfolio/blackwomenonline.jpg",
+        portfolioImage: "./img/portfolio/blackwomenonline.jpg",
         portfolioLink: "https://www.behance.net/ib-themes",
         title: "Black Women Online",
         meta: "Product",
@@ -31,7 +31,7 @@ module.exports = [
     {
         id: 2,
         tooltipId: "dribbble",
-        portfolioImage: "/img/portfolio/amazing_race_logo_world.jpeg",
+        portfolioImage: "./img/portfolio/amazing_race_logo_world.jpeg",
         portfolioLink: "https://dribbble.com/ib-themes",
         title: "Amazing Race Predictor",
         meta: "Dribbble",
@@ -60,7 +60,7 @@ module.exports = [
     {
         id: 3,
         tooltipId: "facebook",
-        portfolioImage: "/img/portfolio/chi_skyline.jpeg",
+        portfolioImage: "./img/portfolio/chi_skyline.jpeg",
         portfolioLink: "https://www.facebook.com/",
         title: "Geospatial Analysis: Chicago",
         meta: "Facebook",
