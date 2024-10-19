@@ -3,8 +3,6 @@ import Link from "next/link";
 import ScrollspyNav from "react-scrollspy-nav";
 import sidebarContent from "../../data/sidebar";
 import Image from "next/image";
-import logo from "../../public/img/logo/dark.png";
-import logo2 from "../../public/img/logo/light.png";
 
 const Sidebar = () => {
     const [click, setClick] = useState(false);
@@ -26,7 +24,7 @@ const Sidebar = () => {
                 className={click ? "edina_tm_sidebar menu-open" : "edina_tm_sidebar"}
             >
                 <div className="sidebar_inner">
-                    <div className="logo">
+                    {/* <div className="logo">
                         <Link href="/">
                             <Image
                                 width={92}
@@ -43,7 +41,7 @@ const Sidebar = () => {
                                 alt="brand"
                             />
                         </Link>
-                    </div>
+                    </div> */}
                     {/* End .logo */}
 
                     <div className="menu">
