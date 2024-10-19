@@ -36,20 +36,16 @@ const Hero = () => {
                         data-aos-delay="200"
                     >
             <span className="typer-toper">
-              <ReactTyped
-                  loop
-                  typeSpeed={150}
-                  backSpeed={60}
-                  strings={["Data Scientist", "Instructor", "Speaker"]}
-                  smartBackspace
-                  shuffle={false}
-                  backDelay={1}
-                  fadeOut={false}
-                  fadeOutDelay={100}
-                  loopCount={0}
-                  showCursor
-                  cursorChar="|"
-              />
+              <h2
+                  className="name"
+                  data-aos="fade-up"
+                  data-aos-duration="1200"
+                  data-aos-delay="200"
+              >
+    <span className="typer-toper">
+        Data Scientist | Instructor | Speaker
+    </span>
+</h2>
             </span>
                     </h1>
                     <p
