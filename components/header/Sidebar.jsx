@@ -6,13 +6,6 @@ import Image from "next/image";
 import logo from "../../public/img/logo/dark.png";
 import logo2 from "../../public/img/logo/light.png";
 
-// sidebar footer bottom content
-const sidebarFooterContent = {
-    name: "Nelson",
-    email: "support@gmail.com",
-    emailRef: "mailto:ib-themes21@gmail.com",
-};
-
 const Sidebar = () => {
     const [click, setClick] = useState(false);
     const handleClick = () => setClick(!click);
