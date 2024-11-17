@@ -8,7 +8,6 @@ const HeaderMobile = () => {
         <Link href="/">
         </Link>
       </div>
-       End .logo
     </>
   );
 };
