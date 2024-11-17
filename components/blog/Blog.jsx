@@ -98,7 +98,7 @@ const Blog = () => {
               <Image
                 width={45}
                 height={45}
-                src="/img/svg/cancel.svg"
+                src={`${process.env.assetPrefix || ''}/img/svg/cancel.svg`}
                 alt="close icon"
               />
             </button>
