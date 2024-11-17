@@ -5,7 +5,7 @@ const nextConfig = {
     images: {
         unoptimized: true,
     },
-    basePath: '',
+    // basePath: '/ljs-portfolio-site',
     assetPrefix: '/ljs-portfolio-site',
 };
 
