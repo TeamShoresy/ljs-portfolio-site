@@ -6,7 +6,7 @@ const nextConfig = {
         unoptimized: true,
     },
     // basePath: '/ljs-portfolio-site',
-    assetPrefix: '/ljs-portfolio-site',
+    // assetPrefix: '/ljs-portfolio-site',
 };
 
 module.exports = nextConfig;
