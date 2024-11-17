@@ -86,7 +86,7 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Blog</h3>
                         <p>
-                            Exploring and sharing topics of interest, learning journey, and project insights.
+                            Delving into data-driven stories, personal growth, and impactful projects.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
