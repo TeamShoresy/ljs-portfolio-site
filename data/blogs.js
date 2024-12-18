@@ -771,7 +771,7 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 6,
-        img: "/img/news/1.jpg",
+        img: "./img/news/black_twitter_mug.jpg",
         title: "Exploring BlackTwitter",
         date: "May 12, 2020",
         meta:  "Data, NLP",
@@ -985,7 +985,7 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 8,
-        img: "/img/news/1.jpg",
+        img: "./img/news/finish_line.jpg",
         title: "Fumbling Your Way to the Finish Line",
         date: "May 1, 2020",
         meta: "Grit",
