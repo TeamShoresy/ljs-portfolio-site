@@ -71,9 +71,7 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Portfolio</h3>
                         <p>
-                            Data scientist experienced in supply chain and real estate, leading impactful machine
-                            learning projects, mentoring Black professionals in data, and exploring insights on race,
-                            place, and food.
+                            Data science and analytics projects of interest.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
@@ -86,7 +84,7 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Blog</h3>
                         <p>
-                            Delving into data-driven stories, personal growth, and impactful projects.
+                            Delving into data-driven stories, data science techniques, ideas, and projects with real-world context.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
