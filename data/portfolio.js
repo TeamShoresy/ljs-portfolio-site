@@ -1,30 +1,19 @@
 module.exports = [
     {
         id: 1,
-        tooltipId: "product",
+        tooltipId: "Analytics, Statistical Inference",
         portfolioImage: "./img/portfolio/blackwomenonline.jpg",
-        portfolioLink: "https://www.behance.net/ib-themes",
-        title: "Black Women Online",
+        portfolioLink: "https://github.com/ljshores/Chicago_Public_Schools_Attainment",
+        title: "Decoding School Performance: A Chicago Public Schools Analysis",
         meta: "Product",
-        clientName: "Alvaro Morata",
         category: "Behance Shoot",
-        date: "October 22, 2022",
+        date: "December 15, 2024",
         projectDescriptions: (
             <>
                 <p>
-                    We live in a world where we need to move quickly and iterate on our
-                    ideas as flexibly as possible. Building mockups strikes the ideal
-                    balance between true-life representation of the end product and ease
-                    of modification.
+                    What drives student success? This project dives into Chicago Public Schools data to uncover the ingredients of academic attainment and the barriers holding schools back. Using metrics like reading scores, truancy rates, and neighborhood demographics, I explored patterns and built regression models to identify key factors of school performance. The analysis reveals actionable insights into how mobility, socioeconomic factors, and school culture shape outcomes, while also debunking some common assumptions. From targeted interventions to equity-focused policy recommendations, this project offers a fresh perspective on improving educational outcomes in urban schools.
                 </p>
 
-                <p>
-                    Mockups are useful both for the creative phase of the project - for
-                    instance when you&lsquo;re trying to figure out your user flows or the
-                    proper visual hierarchy - and the production phase when they will
-                    represent the target product. Making mockups a part of your creative
-                    and development process allows you to quickly and easily ideate.
-                </p>
             </>
         ),
     },
