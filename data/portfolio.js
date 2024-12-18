@@ -4,7 +4,7 @@ module.exports = [
         tooltipId: "Analytics, Statistical Inference",
         portfolioImage: "./img/portfolio/old_books&Notebook.jpg",
         portfolioLink: "https://github.com/ljshores/Chicago_Public_Schools_Attainment",
-        title: "Decoding School Performance: A Chicago Public Schools Analysis",
+        title: "Understanding Academic Attainment in Chicago Public Schools",
         meta: "Analytics, Statistical Inference",
         category: "Analytics, Statistical Inference",
         date: "",
@@ -19,59 +19,38 @@ module.exports = [
     },
     {
         id: 2,
-        tooltipId: "dribbble",
-        portfolioImage: "./img/portfolio/amazing_race_logo_world.jpeg",
-        portfolioLink: "https://dribbble.com/ib-themes",
-        title: "Amazing Race Predictor",
-        meta: "Dribbble",
-        clientName: "Alvaro Morata",
-        category: "Dribbble Shoot",
-        date: "October 22, 2022",
+        tooltipId: "Amazing Race",
+        portfolioImage: "./img/portfolio/global-residence-index-Zkk4rEKnWXE-unsplash.jpg",
+        portfolioLink: "https://github.com/ljshores/amazing_race_analysis",
+        appLink: "https://amazing-race-pred-app.onrender.com/",
+        title: "Predicting Amazing Race Outcomes",
+        meta: "Predictive Modeling, Machine Learning",
+        category: "Predictive Modeling, Machine Learning, NLP, App Creation",
+        date: "September 2024",
         projectDescriptions: (
             <>
                 <p>
-                    We live in a world where we need to move quickly and iterate on our
-                    ideas as flexibly as possible. Building mockups strikes the ideal
-                    balance between true-life representation of the end product and ease
-                    of modification.
+                    This project explores the dynamics of success in The Amazing Race by developing a machine learning model to predict whether a team will finish in the top three. Using scraped data on team demographics, relationships, and performance, various tree-based models were trained and evaluated. Challenges included a small, imbalanced dataset and messy text data. The final model captured ~73% of true top-performing teams but over-predicted winners, achieving 33% precision. Future improvements include leveraging richer text data about contestants to refine predictions and uncover deeper insights into traits influencing success. The model was deployed as an interactive Dash app for public use.
                 </p>
 
-                <p>
-                    Mockups are useful both for the creative phase of the project - for
-                    instance when you&lsquo;re trying to figure out your user flows or the
-                    proper visual hierarchy - and the production phase when they will
-                    represent the target product. Making mockups a part of your creative
-                    and development process allows you to quickly and easily ideate.
-                </p>
             </>
         ),
     },
     {
         id: 3,
-        tooltipId: "facebook",
-        portfolioImage: "./img/portfolio/chi_skyline.jpeg",
-        portfolioLink: "https://www.facebook.com/",
-        title: "Geospatial Analysis: Chicago",
-        meta: "Facebook",
-        clientName: "Alvaro Morata",
-        category: "Facebook Shoot",
-        date: "October 22, 2022",
+        tooltipId: "Chi Geospatial",
+        portfolioImage: "./img/portfolio/chi_reverse_skyline.jpg",
+        portfolioLink: "https://github.com/ljshores/chicago-insights-geospatial/tree/main",
+        title: "Chicago Geospatial Analysis",
+        meta: "Geospatial Analysis, App Deployment",
+        category: "Geospatial Analysis, App Deployment",
+        date: "October 2023",
         projectDescriptions: (
             <>
                 <p>
-                    We live in a world where we need to move quickly and iterate on our
-                    ideas as flexibly as possible. Building mockups strikes the ideal
-                    balance between true-life representation of the end product and ease
-                    of modification.
+                   This analytical project leverages geospatial data to explore how demographics, businesses, crime, transportation, and rent patterns interact across Chicago. A dashboard was developed using Dash and Render to allow users to explore these relationships and assess neighborhoods. The analysis highlights stark spatial trends, such as strong correlations between race, income, and rent prices, with wealth and businesses concentrated in the city’s northern and downtown areas, while lower-income and majority-Black areas are more prevalent on the south and west sides. This project underscores Chicago’s reputation as a highly segregated city and provides a tool for deeper, user-driven exploration.
                 </p>
 
-                <p>
-                    Mockups are useful both for the creative phase of the project - for
-                    instance when you&lsquo;re trying to figure out your user flows or the
-                    proper visual hierarchy - and the production phase when they will
-                    represent the target product. Making mockups a part of your creative
-                    and development process allows you to quickly and easily ideate.
-                </p>
             </>
         ),
     },
