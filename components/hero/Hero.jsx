@@ -43,7 +43,7 @@ const Hero = () => {
                   data-aos-delay="200"
               >
     <span className="typer-toper">
-        Data Scientist | Learning Enthusiast | Speaker
+        Data Scientist | Instructor | Speaker
     </span>
 </h2>
             </span>
