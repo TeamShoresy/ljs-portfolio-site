@@ -11,7 +11,7 @@ const SocialShare = [
     },
     {
         iconName: <FiLinkedin/>,
-        link: "https://www.linkedin.com/in/lauren-j-shor",
+        link: "https://www.linkedin.com/in/lauren-j-shores",
     },
 ];
 const Social = () => {
