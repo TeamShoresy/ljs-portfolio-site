@@ -5,7 +5,7 @@ module.exports = [
         portfolioImage: "./img/portfolio/blackwomenonline.jpg",
         portfolioLink: "https://github.com/ljshores/Chicago_Public_Schools_Attainment",
         title: "Decoding School Performance: A Chicago Public Schools Analysis",
-        meta: "Product",
+        meta: "Analytics, Statistical Inference",
         category: "Behance Shoot",
         date: "December 15, 2024",
         projectDescriptions: (
