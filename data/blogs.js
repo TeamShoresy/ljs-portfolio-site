@@ -203,7 +203,7 @@ sudo pip install -r /home/directory_name/requirements.txt
     },
     {
         id: 2,
-        img: "/img/news/clouds.jpg",
+        img: "./img/news/clouds.jpg",
         title: "Journey to the Cloud with GCP",
         date: "February 21, 2021",
         meta: "Technology",
@@ -350,7 +350,7 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 3,
-        img: "/img/news/3.jpg",
+        img: "./img/news/library-of-congress-WzPxmB_tRlw-unsplash.jpg",
         title: "Du Bois, Black Lives, and Data Storytelling",
         date: "September 20, 2020",
         meta: "Data",
@@ -417,10 +417,10 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 4,
-        img: "/img/news/1.jpg",
+        img: "./img/news/chi_el.jpg",
         title: "Exploring Chicago: Where Would You Live - Pt2",
         date: "May 26, 2020",
-        meta: "Travel",
+        meta: "Geospatial Analysis",
         descriptionText1: (
             <>
                     <p>In this post we’re going to continue to explore different areas of Chicago with the intention of
@@ -596,10 +596,10 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 5,
-        img: "/img/news/1.jpg",
+        img: "./img/news/chi_night_river.jpg",
         title: "Exploring Chicago: Where Would You Live - Pt1",
         date: "May 18, 2020",
-        meta: "Travel",
+        meta: "Geospatial Analysis",
         descriptionText1: (
             <>
 
@@ -774,7 +774,7 @@ client.load_table_from_dataframe(df, table_id, job_config)
         img: "/img/news/1.jpg",
         title: "Exploring BlackTwitter",
         date: "May 12, 2020",
-        meta:  "Data",
+        meta:  "Data, NLP",
         descriptionText1: (
             <>
 
@@ -882,10 +882,10 @@ client.load_table_from_dataframe(df, table_id, job_config)
     },
     {
         id: 7,
-        img: "/img/news/1.jpg",
+        img: "./img/news/chi_deep_dish_pizza.jpg",
         title: "Who Has the Best Pizza in Chicago",
         date: "May 12, 2020",
-        meta: "Travel",
+        meta: "Analytics, Data Visualization",
         descriptionText1: (
             <>
                 <article>
@@ -988,7 +988,7 @@ client.load_table_from_dataframe(df, table_id, job_config)
         img: "/img/news/1.jpg",
         title: "Fumbling Your Way to the Finish Line",
         date: "May 1, 2020",
-        meta: "Travel",
+        meta: "Grit",
         descriptionText1: (
             <>
                 <article >
