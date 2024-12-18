@@ -7,7 +7,7 @@ module.exports = [
         title: "Decoding School Performance: A Chicago Public Schools Analysis",
         meta: "Analytics, Statistical Inference",
         category: "Analytics, Statistical Inference",
-        date: ,
+        date: "",
         projectDescriptions: (
             <>
                 <p>
