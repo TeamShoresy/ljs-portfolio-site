@@ -2,12 +2,12 @@ module.exports = [
     {
         id: 1,
         tooltipId: "Analytics, Statistical Inference",
-        portfolioImage: "./img/portfolio/blackwomenonline.jpg",
+        portfolioImage: "./img/portfolio/old_books&Notebook.jpg",
         portfolioLink: "https://github.com/ljshores/Chicago_Public_Schools_Attainment",
         title: "Decoding School Performance: A Chicago Public Schools Analysis",
         meta: "Analytics, Statistical Inference",
-        category: "Behance Shoot",
-        date: "December 15, 2024",
+        category: "Analytics, Statistical Inference",
+        date: ,
         projectDescriptions: (
             <>
                 <p>
