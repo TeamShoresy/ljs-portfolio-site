@@ -9,7 +9,7 @@ const heroContent = {
     shapeImage: shapeImage,
     heroImage: heroImage,
     name: "Lauren Shores",
-    description: `Harnessing data to create understanding and provide solutions for over 8 years.`,
+    description: `Harnessing data to uncover insights and provide solutions for over 8 years.`,
 };
 
 const Hero = () => {
@@ -43,7 +43,7 @@ const Hero = () => {
                   data-aos-delay="200"
               >
     <span className="typer-toper">
-        Data Scientist | Instructor | Speaker
+        Data Scientist | Learning Enthusiast | Speaker
     </span>
 </h2>
             </span>
