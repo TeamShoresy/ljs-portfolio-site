@@ -1,9 +1,9 @@
 module.exports = [
     {
         id: 1,
-        img: "/img/news/4.jpg",
+        img: "./img/news/cloud_microchip.jpg",
         title: "Deeper into the Cloud: Using VMs on Google Compute Engine to Run a Python Script",
-        date: "February 28,2021",
+        date: "February 28, 2021",
         meta: "Technology",
         descriptionText1: (
             <>
@@ -203,9 +203,9 @@ sudo pip install -r /home/directory_name/requirements.txt
     },
     {
         id: 2,
-        img: "/img/news/2.jpg",
+        img: "/img/news/clouds.jpg",
         title: "Journey to the Cloud with GCP",
-        date: "February 21,2021",
+        date: "February 21, 2021",
         meta: "Technology",
         descriptionText1: (
             <>
