@@ -128,7 +128,6 @@ const Portfolio = () => {
                 <div className="right-content">
                   <ul className="list">
                     <li>
-                      <h5>Client</h5>
                       <span>{singleData?.clientName}</span>
                     </li>
                     {/* End list */}

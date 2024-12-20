@@ -9,7 +9,7 @@ import Blog from "../../blog/Blog";
 import HeaderMobile from "../../header/HeaderMobile";
 
 const EdinaHomeSidebar = () => {
-    const [isDark, setIsDark] = useState(false);
+    const [isDark, setIsDark] = useState(true);
 
     useEffect(() => {
         document.querySelector("body").classList.remove("rtl");
@@ -30,29 +30,7 @@ const EdinaHomeSidebar = () => {
     };
 
     return (
-        <div
-            className={`home-light edina_tm_mainpart ${isDark ? "theme-dark" : ""}`}
-        >
-            {/* Start Dark & Light Mode Swicher  */}
-            <label
-                className={`theme-switcher-label d-flex  ${isDark ? "active" : ""}`}
-            >
-                <input
-                    type="checkbox"
-                    onClick={handleLabelClick}
-                    className="theme-switcher"
-                />
-                <div className="switch-handle">
-                    <i className="light-text" title="Switch to Dark">
-                        <FaMoon/>
-                    </i>
-                    <i className="dark-text" title="Switch to Light">
-                        <FaSun/>
-                    </i>
-                </div>
-            </label>
-            {/* End Dark & Light Mode Swicher  */}
-
+        <div className={`home-light edina_tm_mainpart ${isDark ? "theme-dark" : ""}`}>
             <header className="header-area">
                 <div className="header-inner">
                     <HeaderMobile/>
@@ -84,7 +62,8 @@ const EdinaHomeSidebar = () => {
                     <div className="edina_tm_title">
                         <h3>Blog</h3>
                         <p>
-                            Delving into data-driven stories, data science techniques, ideas, and projects with real-world context.
+                            Delving into data-driven stories, data science techniques, ideas, and projects with
+                            real-world context.
                         </p>
                     </div>
                     {/* End edian_tm_title */}
