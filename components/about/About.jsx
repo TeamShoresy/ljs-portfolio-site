@@ -24,7 +24,7 @@ const About = () => {
                     >
                         <div className="info">
                             <h3>
-                                Hi, I'm <span>Lauren Shores</span>
+                                Hi, I&#39;m <span>Lauren Shores</span>
                             </h3>
                             <p>
                                 I’m a data scientist who loves digging into data to solve problems and uncover insights
