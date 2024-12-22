@@ -7,7 +7,7 @@ module.exports = [
         title: "Understanding Academic Attainment in Chicago Public Schools",
         meta: "Analytics, Statistical Inference",
         category: "Analytics, Statistical Inference",
-        data: "CPS Progress Report 2017-2018",
+        date: "CPS Progress Report 2017-2018",
         projectDescriptions: (
             <>
                 <p>
@@ -21,12 +21,12 @@ module.exports = [
         id: 2,
         tooltipId: "Amazing Race",
         portfolioImage: "./img/portfolio/global-residence-index-Zkk4rEKnWXE-unsplash.jpg",
-        portfolioLink: "https://github.com/ljshores/amazing_race_analysis | https://amazing-race-pred-app.onrender.com/",
+        portfolioLink: "https://github.com/ljshores/amazing_race_analysis",
         appLink: "https://amazing-race-pred-app.onrender.com/",
         title: "Predicting Amazing Race Outcomes",
         meta: "Predictive Modeling, Machine Learning",
         category: "Predictive Modeling, Machine Learning, NLP, App Creation",
-        data: "Scraped Wikipedia and Fandom sites",
+        date: "Scraped Wikipedia and Fandom sites",
         projectDescriptions: (
             <>
                 <p>
@@ -44,7 +44,7 @@ module.exports = [
         title: "Chicago Geospatial Analysis",
         meta: "Geospatial Analysis, App Deployment",
         category: "Geospatial Analysis, App Deployment",
-        data: "data.cityofchicago.org",
+        date: "https://data.cityofchicago.org",
         projectDescriptions: (
             <>
                 <p>
